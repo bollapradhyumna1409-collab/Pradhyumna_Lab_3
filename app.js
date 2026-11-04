@@ -5,7 +5,7 @@ const { open } = require("sqlite");
 
 const app = express();
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 // IMPORTANT: Middleware must be before routes
 app.use(express.json());
