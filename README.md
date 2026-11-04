@@ -1,3 +1,5 @@
+Name: Bolla Pradhyumna
+
 # 📚 Books REST API
 
 A RESTful API built using **Node.js, Express.js, and SQLite** to manage book records. This project demonstrates CRUD operations (Create, Read, Update, and Delete) and REST API development.
