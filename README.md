@@ -144,7 +144,7 @@ The API handles:
 
 **Bolla Pradhyumna**
 
-GitHub: [bollapradhyumna1409-collab](https://github.com/bollapradhyumna1409-collab)
+GitHub: https://github.com/bollapradhyumna1409-collab/Pradhyumna_Lab_3.git
 
 ## 🎯 Project Objective
 
