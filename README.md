@@ -1,6 +1,10 @@
 # 📚 Books REST API – Backend Lab 3
 
 **Student Name:** Bolla Pradhyumna  
+Registration Number : 252U1R5027
+Section: 106, AI&DE-2A
+Subject: Backend Development
+
 
 **Deployed API:**  https://pradhyumnalab3-production.up.railway.app/books/ 
 
